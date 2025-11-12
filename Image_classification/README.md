@@ -28,7 +28,7 @@ The model can classify images into these 10 categories:
 
 1. Clone this repository:
 \`\`\`bash
-git clone https://github.com/yourusername/image-classifier.git
+git clone https://github.com/aayushsingh047/Image_classification
 cd image-classifier
 \`\`\`
 
@@ -160,9 +160,6 @@ EXPOSE 8501
 CMD ["streamlit", "run", "app.py"]
 \`\`\`
 
-## License
-
-MIT License - feel free to use this project for your own purposes
 
 ## Contributing
 
